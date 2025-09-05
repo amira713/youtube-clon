@@ -2,10 +2,10 @@
 
 # 🎬 YouTube Clone (Practice Project)
 
-هذا المشروع عبارة عن 
-**تطبيق عملي** 
-لفيديو تعليمي من قناة [Codezilla]
-(https://m.youtube.com/watch?v=Hnm3BP-tjD8&t=5796s&pp=ygUJY29kZXppbGxh).  
+هذا المشروع عبارة عن **تطبيق عملي** لفيديو تعليمي من قناة [Codezilla](https://m.youtube.com/watch?v=Hnm3BP-tjD8&t=5796s&pp=ygUJY29kZXppbGxh).  
+
+---
+
 الهدف الأساسي منه كان التدريب على 
 HTML و CSS
  وفهم كيفية تصميم واجهة مستخدم مشابهة لموقع 
@@ -13,9 +13,7 @@ HTML و CSS
 
 ---
 
-## 📸 Screenshot
-
-ضع هنا صورة من المشروع:  
+## 📸 Screenshot 
 ![Project Screenshot](images/desktop.webp)
 
 ---
@@ -23,7 +21,7 @@ HTML و CSS
 ## 🌐 Live Demo
 
 يمكنك تجربة المشروع مباشرة من هذا الرابط:  
-[🔗 Live Demo](#)  
+[🔗 Live Demo](https://amira713.github.io/youtube-clon/)  
 
 ---
 
@@ -61,13 +59,12 @@ HTML و CSS.
 # 🎬 YouTube Clone (Practice Project)
 
 This project is a **practical implementation** of a tutorial from the [Codezilla YouTube channel](https://m.youtube.com/watch?v=Hnm3BP-tjD8&t=5796s&pp=ygUJY29kZXppbGxh).  
-The main goal was to **practice HTML and CSS** and understand how to design a user interface similar to YouTube.
 
+---
+The main goal was to **practice HTML and CSS** and understand how to design a user interface similar to YouTube.
 ---
 
 ## 📸 Screenshot
-
-Add a project screenshot here:  
 ![Project Screenshot](images/desktop.webp)
 
 ---
@@ -75,7 +72,7 @@ Add a project screenshot here:
 ## 🌐 Live Demo
 
 You can try the project live here:  
-[🔗 Live Demo](#)  
+[🔗 Live Demo](https://amira713.github.io/youtube-clon/)  
 
 
 ---
